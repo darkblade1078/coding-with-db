@@ -42,7 +42,6 @@ If you don't, then 99% of the time, your code will fail.
 
 Eventually we go more indepth in functions but for now, just take my word for it.
 
-C++ example of the main function
 ![example](https://cdn.discordapp.com/attachments/1012619802789019738/1012650616268533781/unknown.png?size=4096)
 
 ### Common Errors
@@ -131,15 +130,12 @@ Let's go ahead and code your first program.
 We will make a program that will say "Hello, my name is name and I have been playing pnw since year
 
 ### C++
-Here is some example code for C++
 ![alt text](https://cdn.discordapp.com/attachments/1012619802789019738/1012619827069849600/unknown.png?size=4096)
 
 ### Java
-Here is some example code for Java
 ![alt text](https://cdn.discordapp.com/attachments/1012619802789019738/1012624344695980093/unknown.png?size=4096)
 
 ### Typescript
-Here is some example code for Typescript
 ![alt text](https://cdn.discordapp.com/attachments/1012619802789019738/1012621549464977408/unknown.png?size=4096)
 ## Conclusion
 And now you have taken your first steps towards becoming a programmer. For next class,
